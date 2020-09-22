@@ -1,0 +1,24 @@
+.top-navbar-container {
+    width: 100%;
+}
+
+.top-navbar-container-1 {
+    width: 100%;
+    height: 40px;
+    display: grid;
+    grid-template-columns: 4fr 1fr 1fr 1fr 1fr;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.top-navbar-container-1 .company-email div{
+    display: inline-block;
+}
+
+.top-navbar-container-1 .company-phone-number div {
+    display: inline-block;
+}
+
+.top-navbar-container-1 .user-registor div{
+    display: inline-block;
+}
